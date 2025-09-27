@@ -1,3 +1,17 @@
+# PerimeterX Payload Analysis - Academic Research
+
+## ⚠️ ACADEMIC RESEARCH USE ONLY
+
+**📋 [Complete Legal Disclaimer & Terms of Use →](DISCLAIMER.md)**
+
+This document contains educational analysis of browser fingerprinting techniques for **authorized security research** in controlled environments that comply with all applicable laws and institutional ethics guidelines.
+
+**Important:** This analysis is provided solely for **academic research purposes** and must not be used to circumvent security systems or violate terms of service.
+
+---
+
+## Fingerprint Collection Analysis
+
 ### PX11307
 n / a
 

@@ -1,3 +1,9 @@
+/**
+ * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * For authorized testing environments that comply with all applicable laws.
+ * See: https://github.com/botswin/PerimeterX-solver/blob/main/DISCLAIMER.md
+ */
+
 (function () {
   /**
    * @param {Object} obj
