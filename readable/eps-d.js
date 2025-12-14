@@ -1,7 +1,7 @@
 /**
- * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * ⚠️ PRIVACY RESEARCH USE ONLY
  * For authorized testing environments that comply with all applicable laws.
- * See: https://github.com/botswin/PerimeterX-solver/blob/main/DISCLAIMER.md
+ * See: https://github.com/botswin/PerimeterX-Privacy-Research/blob/main/DISCLAIMER.md
  */
 
 (function () {

@@ -1,16 +1,16 @@
-# PerimeterX Security Research
+# PerimeterX Privacy Fingerprint Research
 
-## ⚠️ ACADEMIC RESEARCH USE ONLY
+## ⚠️ PRIVACY RESEARCH USE ONLY
 
-**📋 [Complete Legal Disclaimer & Terms of Use →](DISCLAIMER.md)**
+**📋 [Complete Legal Disclaimer and Terms of Use](DISCLAIMER.md)**
 
-This repository is designed for **academic research and authorized security analysis** in controlled environments that comply with all applicable laws and institutional ethics guidelines.
+This repository is designed for **privacy fingerprint research and authorized security analysis** in controlled environments that comply with all applicable laws and institutional ethics guidelines.
 
 ----------
 
 ## Research Overview
 
-This repository contains educational materials for **security researchers** studying browser fingerprinting techniques and web security mechanisms in **authorized testing environments**. The research demonstrates compatibility testing methodologies using **[BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)** for academic analysis of fingerprint collection patterns.
+This repository contains educational materials for **researchers** studying browser fingerprinting techniques and web security mechanisms in **authorized testing environments**. The research demonstrates compatibility testing methodologies using **[BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)** for privacy focused analysis of fingerprint collection patterns.
 
 [video.webm](https://github.com/user-attachments/assets/c964998b-6c28-4c1a-b0cc-164c7b445a6b)
 
@@ -24,13 +24,13 @@ This repository contains educational materials for **security researchers** stud
 - **[readable](readable)** - Step-by-step analysis methodology for academic understanding
 
 ### Research Documentation
-- **[payload.md](payload.md)** - Educational documentation of fingerprint collection techniques for security research purposes
+- **[payload.md](payload.md)** - Educational documentation of fingerprint collection techniques for privacy and security research purposes
 
 ----------
 
 ## Research Methodology
 
-This educational repository provides insights into browser fingerprinting collection patterns for **authorized security research**. The analysis methodology demonstrates techniques used in **controlled academic environments** for understanding web security mechanisms.
+This educational repository provides insights into browser fingerprinting collection patterns for **authorized privacy and security research**. The analysis methodology demonstrates techniques used in **controlled academic environments** for understanding web security mechanisms.
 
 **Note:** All research materials are intended for **educational and authorized testing purposes only** in compliance with applicable laws and institutional guidelines.
 

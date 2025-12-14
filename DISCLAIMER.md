@@ -2,16 +2,16 @@
 
 ## ACADEMIC & RESEARCH USE DISCLAIMER
 
-**PerimeterX-solver** is designed exclusively for **academic research, security analysis, and authorized testing environments** that comply with all applicable **laws, regulations, and institutional ethics guidelines**.
+**PerimeterX-Privacy-Research** is designed exclusively for **privacy research, security analysis, and authorized testing environments** that comply with all applicable **laws, regulations, and institutional ethics guidelines**.
 
 ## AUTHORIZED USE CASES
 
 This software is intended for legitimate purposes only:
 
 - **University and institutional research projects**
-- **Security research in controlled environments**
+- **Security and privacy research in controlled environments**
 - **Browser compatibility studies**
-- **Fingerprint consistency analysis**
+- **Fingerprint consistency and anti-tracking analysis**
 - **Authorized penetration testing**
 - **Academic coursework and educational purposes**
 - **Open source security research**

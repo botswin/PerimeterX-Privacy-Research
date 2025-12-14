@@ -1,12 +1,12 @@
-# PerimeterX Payload Analysis - Academic Research
+# PerimeterX Payload Analysis - Privacy Research
 
-## ⚠️ ACADEMIC RESEARCH USE ONLY
+## ⚠️ PRIVACY RESEARCH USE ONLY
 
-**📋 [Complete Legal Disclaimer & Terms of Use →](DISCLAIMER.md)**
+**📋 [Complete Legal Disclaimer and Terms of Use](DISCLAIMER.md)**
 
-This document contains educational analysis of browser fingerprinting techniques for **authorized security research** in controlled environments that comply with all applicable laws and institutional ethics guidelines.
+This document contains educational analysis of browser fingerprinting techniques for **authorized privacy and security research** in controlled environments that comply with all applicable laws and institutional ethics guidelines.
 
-**Important:** This analysis is provided solely for **academic research purposes** and must not be used to circumvent security systems or violate terms of service.
+**Important:** This analysis is provided solely for **research purposes** and must not be used to circumvent security systems or violate terms of service.
 
 ---
 
